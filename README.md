@@ -1,16 +1,56 @@
-## Hi there 👋
+Kral bu açılış ekranında bu istediğim # 👋 Merhaba, ben Berkay Avcı
 
-<!--
-**Darkeos06/Darkeos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **ML Engineer** | Computer Vision & Speech Processing  
+🎖️ **Kara Kuvvetleri Ödüllü** | Savunma Sistemleri AI Geliştirici  
+📍 Ankara, Türkiye
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknik Yetenekler
+
+**Programlama:** Python · C++ (temel) · Java (temel) · SQL  
+**Makine Öğrenmesi:** PyTorch · Scikit-learn · Pandas · NumPy  
+**Bilgisayarlı Görü:** OpenCV · YOLOv8 · Görüntü İşleme  
+**Ses İşleme:** STT (Speech-to-Text) · Ses Komut Tanıma  
+**Veri:** Pandas · SQL · Veri Görselleştirme · EDA  
+**Araçlar:** Git · Docker (öğreniyorum) · FastAPI (öğreniyorum) · Linux  
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+### 🎖️ Savunma Sanayii Projeleri (TSK)
+
+| Proje | Açıklama | Durum |
+|-------|----------|-------|
+| [poligon-anomaly-detection](link) | Kurşun deliği anomali tespiti ve analizi | 🟡 Devam ediyor |
+| [tsk-inventory-ai](link) | AI destekli envanter takip sistemi | ✅ Tamamlandı |
+| [tsk-cafeteria-monitor](link) | Yemekhane denetim ve kalite kontrolü | ✅ Tamamlandı |
+| [tsk-personnel-tracking](link) | Personel giriş çıkış takip sistemi | 🟡 Devam ediyor |
+| [tsk-daily-briefing-monitor](link) | Günlük iştima verimlilik analizi | ✅ Tamamlandı |
+
+### 🔬 Açık Kaynak Projeler (Yakında)
+
+| Proje | Teknoloji | Açıklama |
+|-------|-----------|----------|
+| military-object-detection | YOLOv8 + PyTorch | Gerçek zamanlı askeri araç tespiti |
+| turkish-voice-commands | Whisper + FastAPI | Türkçe ses komut tanıma sistemi |
+| pytorch-learning-journey | PyTorch | Derin öğrenme pratikleri |
+
+---
+
+## 🏆 Başarılar & Sertifikalar
+
+- 🥇 **BTK Akademi Veri Bilimi Yarışması** — Türkiye 15. (2023)
+- 🎖️ **Kara Kuvvetleri Hizmet Ödülü** — AI Destekli Yazılım Geliştirme (2026)
+
+---
+
+## 📫 İletişim
+
+- 💼 [LinkedIn](www.linkedin.com/in/berkay-avcı-312068254) 
+- 📧 [Email](berkayvacii.06@gmail.com) 
+
+---
+
+&gt; *"Savunma sanayiinde gerçek zamanlı görüntü işleme ve anomali tespiti üzerine uzmanlaşan ML mühendisi adayı."* bu yazı yazsın
