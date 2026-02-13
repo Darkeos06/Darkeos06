@@ -1,4 +1,4 @@
-Kral bu açılış ekranında bu istediğim # 👋 Merhaba, ben Berkay Avcı
+👋 Merhaba, ben Berkay Avcı
 
 🎯 **ML Engineer** | Computer Vision & Speech Processing  
 🎖️ **Kara Kuvvetleri Ödüllü** | Savunma Sistemleri AI Geliştirici  
