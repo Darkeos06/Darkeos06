@@ -27,7 +27,7 @@
 | [tsk-inventory-ai] | AI destekli envanter takip sistemi | ✅ Tamamlandı |
 | [tsk-cafeteria-monitor]| Yemekhane denetim ve kalite kontrolü | ✅ Tamamlandı |
 | [tsk-personnel-tracking]| Personel giriş çıkış takip sistemi | 🟡 Devam ediyor |
-| [tsk-daily-briefing-monitor] | Günlük iştima verimlilik analizi | ✅ Tamamlandı |
+| [tsk-daily-briefing-monitor] | Günlük iştima verimlilik analizi | 🟡 Devam ediyor |
 
 
 ### 🔬 Açık Kaynak Projeler (Yakında)
@@ -39,6 +39,8 @@
 | pytorch-learning-journey | PyTorch | Derin öğrenme pratikleri |
 | [operator-control-system] | Operatör Kontrol Sistemi | ✅ Tamamlandı |
 | [btc-price-prediction] | BTC Fiyat Tahmini  | ✅ Tamamlandı |
+| [Personnel-recognition-system] | Personel Tanıma Sistemi | ✅ Tamamlandı |
+
 
 
 ---
