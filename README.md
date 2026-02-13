@@ -49,8 +49,8 @@
 
 ## 📫 İletişim
 
-- 💼 [LinkedIn](www.linkedin.com/in/berkay-avcı-312068254) 
-- 📧 [Email](berkayvacii.06@gmail.com) 
+- 💼 [LinkedIn] www.linkedin.com/in/berkay-avcı-312068254
+- 📧 [Email] berkayvacii.06@gmail.com
 
 ---
 
