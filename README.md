@@ -23,11 +23,12 @@ Kral bu açılış ekranında bu istediğim # 👋 Merhaba, ben Berkay Avcı
 
 | Proje | Açıklama | Durum |
 |-------|----------|-------|
-| [poligon-anomaly-detection](link) | Kurşun deliği anomali tespiti ve analizi | 🟡 Devam ediyor |
-| [tsk-inventory-ai](link) | AI destekli envanter takip sistemi | ✅ Tamamlandı |
-| [tsk-cafeteria-monitor](link) | Yemekhane denetim ve kalite kontrolü | ✅ Tamamlandı |
-| [tsk-personnel-tracking](link) | Personel giriş çıkış takip sistemi | 🟡 Devam ediyor |
-| [tsk-daily-briefing-monitor](link) | Günlük iştima verimlilik analizi | ✅ Tamamlandı |
+| [poligon-anomaly-detection] | Kurşun deliği anomali tespiti ve analizi | 🟡 Devam ediyor |
+| [tsk-inventory-ai] | AI destekli envanter takip sistemi | ✅ Tamamlandı |
+| [tsk-cafeteria-monitor]| Yemekhane denetim ve kalite kontrolü | ✅ Tamamlandı |
+| [tsk-personnel-tracking]| Personel giriş çıkış takip sistemi | 🟡 Devam ediyor |
+| [tsk-daily-briefing-monitor] | Günlük iştima verimlilik analizi | ✅ Tamamlandı |
+| [operator-control-system] | Operatör Kontrol Sistemi | ✅ Tamamlandı |
 
 ### 🔬 Açık Kaynak Projeler (Yakında)
 
