@@ -19,7 +19,7 @@
 
 ## 📌 Öne Çıkan Projeler
 
-### 🎖️ Savunma Sanayii Projeleri (TSK)
+### 🎖️ Savunma Sanayi Projeleri (TSK)
 
 | Proje | Açıklama | Durum |
 |-------|----------|-------|
@@ -28,7 +28,7 @@
 | [tsk-cafeteria-monitor]| Yemekhane denetim ve kalite kontrolü | ✅ Tamamlandı |
 | [tsk-personnel-tracking]| Personel giriş çıkış takip sistemi | 🟡 Devam ediyor |
 | [tsk-daily-briefing-monitor] | Günlük iştima verimlilik analizi | ✅ Tamamlandı |
-| [operator-control-system] | Operatör Kontrol Sistemi | ✅ Tamamlandı |
+
 
 ### 🔬 Açık Kaynak Projeler (Yakında)
 
@@ -37,12 +37,13 @@
 | military-object-detection | YOLOv8 + PyTorch | Gerçek zamanlı askeri araç tespiti |
 | turkish-voice-commands | Whisper + FastAPI | Türkçe ses komut tanıma sistemi |
 | pytorch-learning-journey | PyTorch | Derin öğrenme pratikleri |
+| [operator-control-system] | Operatör Kontrol Sistemi | ✅ Tamamlandı |
+| [btc-price-prediction] | BTC Fiyat Tahmini  | ✅ Tamamlandı |
+
 
 ---
 
 ## 🏆 Başarılar & Sertifikalar
-
-- 🥇 **BTK Akademi Veri Bilimi Yarışması** — Türkiye 15. (2023)
 - 🎖️ **Kara Kuvvetleri Hizmet Ödülü** — AI Destekli Yazılım Geliştirme (2026)
 
 ---
