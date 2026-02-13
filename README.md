@@ -13,7 +13,7 @@
 **Bilgisayarlı Görü:** OpenCV · YOLOv8 · Görüntü İşleme  
 **Ses İşleme:** STT (Speech-to-Text) · Ses Komut Tanıma  
 **Veri:** Pandas · SQL · Veri Görselleştirme · EDA  
-**Araçlar:** Git · Docker (öğreniyorum) · FastAPI (öğreniyorum) · Linux  
+**Araçlar:** Git · Docker (öğreniyorum) · FastAPI  · Linux  
 
 ---
 
